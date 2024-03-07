@@ -1,0 +1,24 @@
+{
+  "name": "tester_joker-",
+  "version": "1.0.0",
+  "description": "teacher tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aurkoarc/tester_joker-.git"
+  },
+  "dependencies": {
+    "kearny-": "^1.0.4",
+    "aps88tea77n": "^1.0.4",
+    "okinawa_team-": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurkoarc/tester_joker-/issues"
+  },
+  "homepage": "https://github.com/aurkoarc/tester_joker-#readme"
+}
